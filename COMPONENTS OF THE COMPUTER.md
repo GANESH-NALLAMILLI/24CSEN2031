@@ -1,2 +1,3 @@
-INPUT DEVICES : keyboards, computer mice, scanners, cameras, joysticks, and microphones. 
-OUTPUT DEVICES:  monitors or displays, printers, speakers, headphones, projectors.
+__INPUT DEVICES__: keyboards, computer mice, scanners, cameras, joysticks, and microphones.
+
+__OUTPUT DEVICES__: monitors or displays, printers, speakers, headphones, projectors.
