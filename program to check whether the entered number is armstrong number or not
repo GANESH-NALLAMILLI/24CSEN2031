@@ -1,4 +1,4 @@
-// program to check whether the entered number is armstrong or not
+// program to check whether the entered number is armstrong number or not
 
 #include <stdio.h>
 
