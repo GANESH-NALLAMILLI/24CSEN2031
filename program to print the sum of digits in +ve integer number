@@ -23,3 +23,16 @@ int main() {
    
    return 0;
 }
+
+
+
+
+
+OUTPUT:
+
+enter any number: 56935
+
+
+ the sum of the digits in the entered number is : 28
+
+=== Code Execution Successful ===
