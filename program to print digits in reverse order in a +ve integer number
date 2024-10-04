@@ -18,3 +18,22 @@ int main() {
  
    return 0;
 }
+
+
+
+
+
+OUTPUT:
+
+enter any number to be reversed: 98456
+
+
+after reversing:
+ 
+6
+5
+4
+8
+9
+
+=== Code Execution Successful ===
