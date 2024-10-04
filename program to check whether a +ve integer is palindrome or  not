@@ -26,3 +26,15 @@ int main() {
        
    return 0;
 }
+
+
+
+
+
+OUTPUT:
+
+Enter any number to check whether it is Palindrome Number or not: 56565
+
+Entered number is A Palindrome Number
+
+=== Code Execution Successful ===
